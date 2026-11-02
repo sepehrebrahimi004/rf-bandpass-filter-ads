@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# ADS temporary and per-user files
+*~
+*.log
+saved.wrkstate
+navigator.opt
+*.lock
+Thumbs.db
+.DS_Store
